@@ -1,0 +1,14 @@
+# Grade 12 Python Homework - mBot2
+import cyberpi
+
+cyberpi.led.on(255,0,0)
+cyberpi.console.println("Name: Ana")
+cyberpi.console.println("Surname: Krasniqi")
+cyberpi.console.println("Favorite Color: Red")
+
+cyberpi.console.println("")
+
+cyberpi.console.println("Favorite Subjects:")
+cyberpi.console.println("1. Chemistry")
+cyberpi.console.println("2. History")
+cyberpi.console.println("3. Biology")
